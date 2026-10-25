@@ -34,7 +34,7 @@ The choice of sound frequencies is a belief and an option to help heal both the 
 A previous study reported reduced stress, anxiety, and heart rate, along with improved concentration, among participants exposed to 432 Hz sound. However, the limited sample size, unclear study scope, and uncontrolled factors prevent firm conclusions about whether this frequency reduces stress.
 
 ## A structured 22-minute nap journey protocol
-The structured guide comprises six phases: *Forest Bathing*, *Nap Induction*, *Lullaby Music*, *432 Hz Sound frequency*, *Gentle Awakening*, and *Restoration*. The sequence guides participants through preparation, relaxation, and a gradual return to wakefulness.
+This study designed a structured, guided relaxation protocol that comprises six phases: *Forest Bathing*, *Nap Induction*, *Lullaby Music*, *432 Hz Sound frequency*, *Gentle Awakening*, and *Restoration*. The sequence guides participants through preparation, relaxation, and a gradual return to wakefulness.
 
 **The audio dataset used in the protocol is available in**
 
