@@ -9,6 +9,8 @@ When the sound wave we hear enters the body, it creates resonant vibrations, and
 
 
 ## Reference
-[1] https://www.ncbi.nlm.nih.gov/books/NBK541120/#:~:text=Chronic%20stress:%20This%20occurs%20when%20the%20stressor,such%20as%20cardiovascular%20disease%2C%20anxiety%2C%20and%20depression.
+[1]
+https://www.ncbi.nlm.nih.gov/books/NBK541120/#:~:text=Chronic%20stress:%20This%20occurs%20when%20the%20stressor,such%20as%20cardiovascular%20disease%2C%20anxiety%2C%20and%20depression.
 
-[2] https://www.sciencedirect.com/science/article/pii/B9780124095489113971
+[2]
+https://www.sciencedirect.com/science/article/pii/B9780124095489113971
