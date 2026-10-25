@@ -8,9 +8,13 @@ Sound is a mechanical wave that propagates through a medium, such as air, liquid
 When the sound wave we hear enters the body, it creates resonant vibrations, and certain tissues naturally respond to these oscillations.
 
 ## Therapeutic sound frequencies
-
+From this study, we discovered that various sound frequencies are used in a form of mental health therapy called sound healing.
+This concept originates from music, believing that each frequency has a different effect on the body and mind.
 
 ## Characteristics and Applications of the Solfeggio Frequencies
+Solfeggio frequencies are commonly used in sound healing and meditation practices.
+Different sound frequencies are associated with different psychological or emotional effects, such as stress reduction, relaxation, emotional balance, and mental calmness.
+
 | Frequency (Hz) | Attributed effects | Typical application contexts |
 | :---: | :---: | --- |
 | 174 | Relieving pain and stress | Used in pain-relief therapies and meditation for reducing stress and anxiety. |
@@ -23,12 +27,18 @@ When the sound wave we hear enters the body, it creates resonant vibrations, and
 | 852 | Awakens intuition | Applied in meditation and spiritual practices to enhance intuition and expand awareness. |
 | 963 | Connects to universal consciousness | Used in transcendental meditation and sound healing to deepen spiritual connection and consciousness. |
 
+Therefore, the 9 frequencies are used in various applications, including meditation and music therapy.
+The choice of sound frequencies is a belief and an option to help heal both the body and mind.
+
 ## Reference
 [1]https://www.ncbi.nlm.nih.gov/books/NBK541120/#:~:text=Chronic%20stress:%20This%20occurs%20when%20the%20stressor,such%20as%20cardiovascular%20disease%2C%20anxiety%2C%20and%20depression.
 
 [2]https://www.sciencedirect.com/science/article/pii/B9780124095489113971
+
 [3]Mehra, H., 528Hz: The Sound Of Tranquillity And Its Effect On Anxiety. Revista Electronica de Veterinaria, 2024. 25: p. 595–603.
+
 [4]Joseph, S., Sound Healing using Solfeggio Frequencies. 2019.
+
 [5]Yang, X., F. Nah, and F. Lin, A Review on the Effects of Chanting and Solfeggio Frequencies on Well-Being. 2023. 628–639.
 
 
