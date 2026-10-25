@@ -30,7 +30,7 @@ Different sound frequencies are associated with different psychological or emoti
 Therefore, the 9 frequencies are used in various applications, including meditation and music therapy.
 The choice of sound frequencies is a belief and an option to help heal both the body and mind.
 
-## 432 Hz sound frequencies
+## 432 Hz Sound frequencies
 A previous study reported reduced stress, anxiety, and heart rate, along with improved concentration, among participants exposed to 432 Hz sound. However, the limited sample size, unclear study scope, and uncontrolled factors prevent firm conclusions about whether this frequency reduces stress.
 
 ## A structured 22-minute nap journey protocol
