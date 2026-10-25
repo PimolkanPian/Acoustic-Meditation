@@ -12,7 +12,7 @@ When the sound wave we hear enters the body, it creates resonant vibrations, and
 
 ## Characteristics and Applications of the Solfeggio Frequencies
 | Frequency (Hz) | Attributed effects | Typical application contexts |
-| :----: | --- | --- |
+| :---: | :---: | --- |
 | 174 | Relieving pain and stress | Used in pain-relief therapies and meditation for reducing stress and anxiety. |
 | 285 | Healing tissue and organs | Applied in sound healing and wellness practices to support tissue repair and physical recovery. |
 | 396 | Release from fear and guilt | Used in meditation and sound therapy to support emotional release and reduce feelings of fear and guilt. |
