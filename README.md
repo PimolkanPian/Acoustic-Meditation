@@ -38,7 +38,7 @@ This study designed a structured, guided relaxation protocol that comprises six 
 
 **The audio dataset used in the protocol is available on Kaggle.** [Acoustics Meditation](https://www.kaggle.com/datasets/pimolkanpian/acoustic-meditation)
 
-**Meditation station Design**
+## Meditation Station Design
 The Meditation Station integrates hardware and software components to support the implementation of a structured relaxation protocol and the acquisition of participant response data. The hardware configuration comprises multimedia presentation devices, environmental and comfort-support components, and cognitive assessment devices.
 
 ## Hardware Configuration
