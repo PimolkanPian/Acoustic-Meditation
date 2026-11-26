@@ -38,3 +38,34 @@ This study designed a structured, guided relaxation protocol that comprises six 
 
 **The audio dataset used in the protocol is available on Kaggle.** [Acoustics Meditation](https://www.kaggle.com/datasets/pimolkanpian/acoustic-meditation)
 
+**Meditation station Design**
+The Meditation Station integrates hardware and software components to support the implementation of a structured relaxation protocol and the acquisition of participant response data. The hardware configuration comprises multimedia presentation devices, environmental and comfort-support components, and cognitive assessment devices.
+
+## Hardware Configuration
+The reaction-time assessment device incorporates a microcontroller, red and green light-emitting diodes (LEDs), and corresponding physical push buttons. The digit sequence assessment is administered using a computer equipped with audio output and keyboard input.
+
+| Component | Configuration | Function |
+| :--- | :--- | :--- |
+| Red LED | GPIO 6 | Visual stimulus |
+| Green LED | GPIO 7 | Visual stimulus |
+| Red push button | GPIO 27 | Participant response input |
+| Green push button | GPIO 26 | Participant response input |
+| Internal storage | Microcontroller file system | Experimental data storage |
+| Audio output device | Computer-based audio output | Auditory digit presentation |
+| Keyboard | Computer input device | Digit sequence response entry |
+
+## Reaction Time Assessment
+
+The reaction-time assessment module was developed using MicroPython to control the visual stimuli and detect participant responses through physical push buttons.
+
+Each assessment comprises five trials. In each trial, either the red or green LED is randomly activated. Participants are instructed to press the corresponding button. The stimulus remains active until the correct button input is detected.
+
+Source code: Reaction test.py
+
+## Digit Sequence Assessment
+
+The digit sequence assessment module was implemented using Python and the pyttsx3 text-to-speech library to administer an auditory digit recall task.
+
+The assessment begins with a four-digit sequence and progressively increases in length to a maximum of ten digits. Participants listen to the generated digit sequence and reproduce it using the keyboard.
+
+Source code: Digit sequence test.py
